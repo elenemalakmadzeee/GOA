@@ -6,4 +6,3 @@ def print_word_lengths(sentence):
     # თითოეული სიტყვის სიმბოლოების რაოდენობის დაბეჭდვა
     for word in words:
         print( word + str(len(word)))
-

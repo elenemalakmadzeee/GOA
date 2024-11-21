@@ -5,4 +5,3 @@ def remove_extra_spaces(sentence):
     # ზედმეტი space-ების ამოღება
     cleaned_sentence = " ".join(sentence.split())
     return cleaned_sentence
-

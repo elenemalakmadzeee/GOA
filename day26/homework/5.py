@@ -10,8 +10,3 @@ def turned_words(text):
     
     # შებრუნებული სიტყვების დაკავშირება space-ით
     return " ".join(reversed_words)
-
-
-
-
-

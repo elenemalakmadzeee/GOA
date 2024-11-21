@@ -8,11 +8,3 @@ def process_sentence(sentence):
     processed_sentence = ", ".join(words)
     
     return processed_sentence
-
-
-
-
-
-
-
-

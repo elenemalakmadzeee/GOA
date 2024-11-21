@@ -4,4 +4,3 @@
 def space_in_sentence(text):
     cleaned_sentence = "-".join(text.split())
     return cleaned_sentence
-
